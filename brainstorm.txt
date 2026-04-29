@@ -1,4 +1,0 @@
-doctor:
-pharmacy:
-patient:
-prescriptionsHistory:
